@@ -1,11 +1,14 @@
 {
-  "name": "d3-charts-whale",
-  "version": "1.0.0",
+  "name": "whale-charts",
+  "version": "1.0.0", 
   "description": "Charts library base on D3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sunshine-dz-lzw",
+  "author": {
+    "name": "sunshine-dz-lzw",
+    "url": "https://github.com/sunshine-dz/d3-charts-whale"
+  },
   "license": "ISC"
 }
